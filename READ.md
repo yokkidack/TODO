@@ -1,3 +1,4 @@
+##why
 - [ ] «Изобретение повседневности» Мишель де Серто (есть  библиотеке Гаража(701.18 Дес))
 - [ ] Географический эксперимент Кулешова, эффект Кулешова «Искусство кино» Лев Кулешов (https://unixone.ru/?p=2031)
 - [ ] «Теория Дрейва» Ги Дебор (https://ru.theanarchistlibrary.org/library/gi-debor-teoriya-drejfa)
@@ -5,3 +6,9 @@
 - [ ] „Grid Systems“ „Raster Systeme“ Йозеф Майер
 - [ ] "Введение в критику городской географии" Ги Дебор (https://ru.theanarchistlibrary.org/library/gi-debor-vvedenie-v-kritiku-gorodskoj-geografii)
 - [ ] "Общественная идеология автомобилизации" Андре Горц (https://ru.theanarchistlibrary.org/library/andre-gorc-obschestvennaya-ideologiya-avtomobilizacii)
+
+
+
+
+##wtf
+- [ ] В помощь пионервожатому. 1943 г.(https://unixone.ru/?p=1498#more-1498)
