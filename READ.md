@@ -1,9 +1,6 @@
 - [ ] «Изобретение повседневности» Мишель де Серто
-
 - [ ] Географический эксперимент Кулешова, эффект Кулешова «Искусство кино» Лев Кулешов
-
 - [ ] «Теория Дрейва» Ги Дебор (https://ru.theanarchistlibrary.org/library/gi-debor-teoriya-drejfa)
-
 - [ ] «Берлинское детство на рубеже веков» Беньямин В
-
 - [ ] „Grid Systems“ „Raster Systeme“ Йозеф Майер
+- [ ] "Введение в критику городской географии" Ги Дебор (https://ru.theanarchistlibrary.org/library/gi-debor-vvedenie-v-kritiku-gorodskoj-geografii)
