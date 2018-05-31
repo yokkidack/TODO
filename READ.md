@@ -6,10 +6,13 @@
 - [ ] "Структура данных и алгоритмы" - Ахо Холкрофт Ульман
 - [ ] "Построение и анализ вычислительных алгоритмов" - Ахо Холкрофт Ульман
 
-
 - [ ] "ШАБЛОНЫ ПРОЕКТИРОВАНИЯ" -GoF(http://www.sugardas.lt/~p2d/books/Priemioop.pdf)
 - [ ] "ПРОЕКТИРОВАНИЕ И ШАБЛОНЫ" - Скотт Майерс
 - [ ] "?" Александреец Андрей
+
+- [ ] ТАНЕНБАУМ
+- [ ] ЩЕРБАКОВ ДОМАШЕВ "прикладная криптография" (https://m.books.ru/books/prikladnaya-kriptografiya-81305/)
+- [ ] "написание драйверов систем безопасности" СОРОКИНА С И
 
 
 # why
@@ -19,7 +22,7 @@
 - [ ] «Берлинское детство на рубеже веков» Беньямин В (ISBN 978-5-91103-120-6 Ад Маргинем Пресс)
 - [ ] „Grid Systems“ „Raster Systeme“ Йозеф Майер
 - [x] "Введение в критику городской географии" Ги Дебор (https://ru.theanarchistlibrary.org/library/gi-debor-vvedenie-v-kritiku-gorodskoj-geografii)
-- [ ] "Общественная идеология автомобилизации" Андре Горц (https://ru.theanarchistlibrary.org/library/andre-gorc-obschestvennaya-ideologiya-avtomobilizacii)
+- [x] "Общественная идеология автомобилизации" Андре Горц (https://ru.theanarchistlibrary.org/library/andre-gorc-obschestvennaya-ideologiya-avtomobilizacii)
 - [ ] "Mix Tape: The Art of Cassette Culture"
 - [ ] Крысько В. Г. — "Секреты психологической войны"
 - [ ] "Защита от вторжений расследование компьютерных преступлений" - Мандиа К.
