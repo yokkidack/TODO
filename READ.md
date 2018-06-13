@@ -21,7 +21,20 @@
 - [x] «Теория Дрейва» Ги Дебор (https://ru.theanarchistlibrary.org/library/gi-debor-teoriya-drejfa)
 - [ ] «Берлинское детство на рубеже веков» Беньямин В (ISBN 978-5-91103-120-6 Ад Маргинем Пресс)
 - [ ] „Grid Systems“ „Raster Systeme“ Йозеф Майер
-- [x] "Введение в критику городской географии" Ги Дебор (https://ru.theanarchistlibrary.org/library/gi-debor-vvedenie-v-kritiku-gorodskoj-geografii)
+- [x] "Введение в критику городской географии" - Ги Дебор (https://ru.theanarchistlibrary.org/library/gi-debor-vvedenie-v-kritiku-gorodskoj-geografii)
+- [ ] «Mémoires» (1958) - Ги Дебор
+- [ ] «Avec Asger Jorn» (1957) - Ги Дебор
+- [ ] «Contre le cinema» (1964) - Ги Дебор
+- [ ] «Le Déclin et la chute de l’économie spectaculaire marchande» (1966) - Ги Дебор
+- [ ] «Le Point d’explosion de l’idéologie en Chine» (1966) - Ги Дебор
+- [ ] «La Société du spectacle» (1967) — «Общество спектакля» — русский перевод. - Ги Дебор 
+- [ ] «La Véritable Scission dans l’Internationale» (1972) - Ги Дебор
+- [ ] «De l’architecture sauvage» (1974) - Ги Дебор
+- [ ] «Œuvres cinématographiques complètes» (1952—1978) - Ги Дебор
+- [ ] «Commentaires sur la société du spectacle», (1988) — «Комментарии к Обществу спектакля» — русский перевод. - Ги Дебор
+- [ ] «Panégyrique» (1989) - Ги Дебор
+- [ ] «Cette mauvaise réputation…» (1993) - Ги Дебор
+- [ ] За и против кинематографа: Теория, критика, сценарии - Ги Дебор
 - [x] "Общественная идеология автомобилизации" Андре Горц (https://ru.theanarchistlibrary.org/library/andre-gorc-obschestvennaya-ideologiya-avtomobilizacii)
 - [ ] "Mix Tape: The Art of Cassette Culture"
 - [ ] Крысько В. Г. — "Секреты психологической войны"
