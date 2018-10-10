@@ -1,6 +1,6 @@
 ## Введение в дазы данных
 
-![видео](https://www.youtube.com/watch?v=SfYaAQ9-RnE&list=PLrCZzMib1e9oOFQbuOgjKYbRUoA8zGKnj)
+[ видео](https://www.youtube.com/watch?v=SfYaAQ9-RnE&list=PLrCZzMib1e9oOFQbuOgjKYbRUoA8zGKnj)
 
 noSQL нужна чтобы не сохранять целостность базы данних. жертвуется рядом ограничений и проверок, но есть возможность более простого масштабирования. тарантул стоит особняком, для него основная плюшка- быстрый доступ к данным. 
 
