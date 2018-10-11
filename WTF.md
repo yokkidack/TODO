@@ -1,1 +1,2 @@
 - [ ] out-of-source build
+- [ ] RTTI information
