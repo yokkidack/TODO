@@ -6,7 +6,7 @@ sdk:
 
 books:
 
--  [ ] [38/482] MongoDB in Action
+-  [ ] [38/482] MongoDB in Action http://pepa.holla.cz/wp-content/uploads/2016/11/MongoDB-in-Action-2nd-Edition.pdf
 
 docs:
 
