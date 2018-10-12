@@ -1,8 +1,8 @@
 
 sdk:
 
-- [ ] https://github.com/aws/aws-sdk-cpp
-- [ ] https://github.com/mongodb/mongo-cxx-driver
+- [x] https://github.com/aws/aws-sdk-cpp
+- [x] https://github.com/mongodb/mongo-cxx-driver
 
 books:
 
