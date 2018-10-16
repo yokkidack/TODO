@@ -7,3 +7,5 @@ https://cgold.readthedocs.io/en/latest/tutorials/out-of-source.html
 - [ ] RTTI information
 
 - [ ]  Elastic IP address
+
+- [ ] ленивое выполнение 
