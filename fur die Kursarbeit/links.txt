@@ -1,1 +1,5 @@
 http://mongoc.org/libmongoc/current/installing.html --Oh, Ich liebe dieses Tutorial so viel, Ich kenne keinen besser
+
+MongoDB shell version v3.6.3
+connecting to: mongodb://127.0.0.1:27017
+2018-11-25T19:21:25.947+0300 W NETWORK  [thread1] Failed to connect to 127.0.0.1:27017, in(checking socket for error after poll), reason: Connection refused
