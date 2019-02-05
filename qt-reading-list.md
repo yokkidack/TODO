@@ -1,0 +1,2 @@
+- [ ] [quick start](http://doc.qt.io/qt-5/gettingstarted.html)
+- [ ] [qt quick](http://doc.qt.io/qt-5/qtquick-index.html)
