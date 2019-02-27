@@ -1,3 +1,16 @@
+# Book Club
+
+- [ ] Эндрю Таненбаум, Тодд Остин Архитектура компьютера
+- [ ] Эндрю Таненбаум Компьютерные сети
+- [ ] Марк Руссинович и др. Внутреннее устройство Windows
+
+- [ ] Стивен Прата. Язык программирования С++. Лекции и упражнения
+- [ ] Скотт Маейрс Эффективное использование C++. 55 верных способов улучшить структуру и код ваших программ
+- [ ] Скотт Маейрс Эффективный и современный C++
+
+# Industrial Development
+- [ ] [git pro](https://git-scm.com/book/ru/v2)
+
 # aya 
 - [ ] https://pda.litres.ru/olga-stesik/operacionnaya-sistema-unix-7068476/?utm_medium=cpc&utm_source=google&utm_campaign=Tovarnaya1%7C184350330&utm_term=&utm_content=k50id%7Cpla-352329571134%7Ccid%7C184350330%7Caid%7C43672117890%7Cgid%7C9065790330%7Cpos%7C1o1%7Csrc%7Cg_%7Cdvc%7Cc%7Creg%7C9047022%7Crin%7C%7C&k50id=9065790330%7Cpla-352329571134&gclid=EAIaIQobChMItKrTmPSr3gIVTs-yCh0w2AJqEAYYASABEgI1DPD_BwE
 
