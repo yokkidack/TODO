@@ -117,11 +117,11 @@
 - [ ] The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries
 - [ ] Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel and Blake Masters
 
-# python
+## python
 
 - [x] LPYHW
 
-# Book Club
+## Book Club
 
 - [ ] Эндрю Таненбаум, Тодд Остин Архитектура компьютера
 - [ ] Эндрю Таненбаум Компьютерные сети `<Reading`
@@ -131,13 +131,13 @@
 - [ ] Скотт Маейрс Эффективное использование C++. 55 верных способов улучшить структуру и код ваших программ
 - [ ] Скотт Маейрс Эффективный и современный C++
 
-# Industrial Development
+## Industrial Development
 - [ ] [git pro](https://git-scm.com/book/ru/v2)
 
-# aya 
+## aya 
 - [ ] https://pda.litres.ru/olga-stesik/operacionnaya-sistema-unix-7068476/?utm_medium=cpc&utm_source=google&utm_campaign=Tovarnaya1%7C184350330&utm_term=&utm_content=k50id%7Cpla-352329571134%7Ccid%7C184350330%7Caid%7C43672117890%7Cgid%7C9065790330%7Cpos%7C1o1%7Csrc%7Cg_%7Cdvc%7Cc%7Creg%7C9047022%7Crin%7C%7C&k50id=9065790330%7Cpla-352329571134&gclid=EAIaIQobChMItKrTmPSr3gIVTs-yCh0w2AJqEAYYASABEgI1DPD_BwE
 
-# timp
+## timp
 - [ ] "Инженерия по" / "Software Engineering" - Иан Соммервил
 - [ ] "Использование абстракций и спец.при разработке программ" - Б. Лисков
 - [ ] "Абстрактные типы данных" - Ахо Холкрофт Ульман
@@ -148,6 +148,16 @@
 - [ ] "?" Александреец Андрей
 - [ ] ЩЕРБАКОВ ДОМАШЕВ "прикладная криптография" (https://m.books.ru/books/prikladnaya-kriptografiya-81305/)
 - [ ] "написание драйверов систем безопасности" СОРОКИНА С И
+
+## List of uncirtancies 
+
+- [x] out-of-source build
+
+[comment]: # (how to out of source build in cmake https://cgold.readthedocs.io/en/latest/tutorials/out-of-source.html)
+
+- [x] RTTI information
+- [ ] Elastic IP address
+- [ ] ленивое выполнение 
 
 
 # artsy 
