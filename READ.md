@@ -1,6 +1,125 @@
+## Programming
+- [ ] Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+- [ ] Eloquent JavaScript by Marjin Haverbeke
+- [ ] Code Complete: A Practical Handbook of Software Construction by Steve McConnell
+- [ ] Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, and Ralph Johnson
+- [ ] Soft Skills: The software developer’s life manual by John Sonmez
+- [ ] Working Effectively with Legacy Code by Michael Feathers
+
+## Computer Science
+
+- [ ] Invitation to Computer Science (Introduction to CS) by G. Michael Schneider and Judith Gersting
+- [ ] Disclaimer: This was a textbook I used for class at Columbia. There may be other ones but I thought this provided a good foundation.
+
+## Algorithms and Data Structures
+
+- [ ] Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles by Narasimha Karumanchi
+- [ ] Cracking the Coding Interview: 189 Programming Questions and Solutions by Gayle Laakmann McDowell
+- [ ] Disclaimer: I went to a presentation hosted by the author and enjoyed her presentation.
+- [ ] Grokking Algorithms: An illustrated guide for programmers and other curious people by Aditya Bhargava
+- [ ] Algorithms to Live By: The Computer Science of Human Decisions by Brian Christian and Tom Griffiths
+
+## Linear Algebra
+
+- [ ] Introduction to Linear Algebra by Gilbert Strang
+- [ ] Linear Algebra Done Right by Sheldon Axler
+
+## Discrete Mathematics
+
+- [ ] Discrete Mathematics by Gary Chartrand and Ping Zhang
+- [ ] Introductory Discrete Mathematics by V. K . Balakrishnan
+
+## Computer Systems
+
+- [ ] Digital Systems: Principles and Applications by Ronald J. Tocci, Neal Widmer, and Greg Moss
+- [ ] Electronics Fundamentals: Circuits, Devices & Applications by Thomas L. Floyd and David M. Buchla
+
+## Probability and Statistics
+
+- [ ] Introduction to Probability, Statistics, and Random Processes by Hossein Pishro-Nik
+- [ ] Naked Statistics: Stripping the Dread from the Data by Charles Wheelan
+
+## Data Science
+
+- [ ] Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking by Foster Provost and Tom Fawcett
+- [ ] Python Data Science Handbook: Essential Tools for Working with Data by Jake VanderPlas
+- [ ] R for Data Science: Import, Tidy, Transform, Visualize, and Model Data by Hadley Wickham and Garrett Grolemund
+- [ ] Practical Statistics for Data Scientists: 50 Essential Concepts by Peter Bruce and Andrew Bruce
+- [ ] Numsense! Data Science for the Layman: No Math Added by Annalyn Ng and Kenneth Soo
+
+## Machine Learning
+
+- [ ] Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron
+- [ ] Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Müller and Sarah Guido
+
+## Interviewing
+
+- [ ] Cracking the Coding Interview: 189 Programming Questions and Solutions by Gayle Laakmann McDowell
+- [ ] Disclaimer: I went to a presentation hosted by the author and enjoyed her presentation.
+- [ ] Elements of Programming Interviews in Python: The Insiders’ Guide by Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash
+
+## Agile
+
+- [ ] A Gentle Introduction to Agile Software Development by Stephen Haunts
+- [ ] Agile Project Management: A Complete Beginner’s Guide To Agile Project Management by Marcus Ries and Diana Summers
+- [ ] Agile Retrospectives: Making Good Teams Great by Esther Derby and Diana Larsen
+
+## Collaboration
+
+- [ ] Rework by Jason Fried and David Heinemeier Hansson
+- [ ] Debugging Teams: Better Productivity through Collaboration by Brian W. Fitzpatrick and Ben Collins-Sussman
+- [ ] Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead by Laszlo Bock
+- [ ] Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek
+- [ ] Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs by John Doerr
+- [ ] The Back of the Napkin (Expanded Edition): Solving Problems and Selling Ideas with Pictures by Dan Roam
+- [ ] Lean UX: Designing Great Products with Agile Teams by Jeff Gothelf and Josh Seiden
+
+## Inclusion
+
+- [ ] Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy by Cathy O’Neil
+- [ ] Brotopia: Breaking Up the Boys’ Club of Silicon Valley by Emily Chang
+- [ ] Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech by Sara Wachter-Boettcher
+- [ ] Mismatch: How Inclusion Shapes Design by Kat Holmes
+
+## Career / Professional Development
+
+- [ ] Soft Skills: The software developer’s life manual by John Sonmez
+- [ ] Grit: The Power of Passion and Perseverance by Angela Duckworth
+- [ ] Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi
+- [ ] Thinking, Fast and Slow by Daniel Kahneman
+- [ ] The Slight Edge: Turning Simple Disciplines into Massive Success and Happiness by Jeff Olson and John David Mann
+- [ ] Pivot: The Only Move That Matters Is Your Next One by Jenny Blake
+- [ ] The 10X Rule: The Only Difference Between Success and Failure by Grant Cardone
+- [ ] Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink
+
+## Design Thinking and UX
+
+- [ ] Don’t Make Me Think: A Common Sense Approach to Web Usability by Steve Krug
+- [ ] Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation by Tim Brown
+- [ ] The Design of Everyday Things: Revised and Expanded Edition by Don Norman
+- [ ] 100 Things Every Designer Needs to Know About People by Susan M. Weinschenk, Ph.D.
+- [ ] 100 MORE Things Every Designer Needs to Know About People (Voices That Matter) by Susan M. Weinschenk, Ph.D.
+- [ ] The User Experience Team of One: A Research and Design Survival Guideby Leah Buley
+- [ ] Applied Empathy: The New Language of Leadership by Michael Ventura
+- [ ] Practical Empathy: For Collaboration and Creativity in Your Work by Indi Young
+- [ ] Talking to Humans: Success starts with understanding your customers by Giff Constable
+- [ ] Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp, John Zeratsky, and Braden Kowitz
+- [ ] Universal Principles of Design, Revised and Updated: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design by William Lidwell, Kritina Holden, and Jill Butler
+
+## Concept Development
+
+- [ ] Good to Great: Why Some Companies Make the Leap and Others Don’t by Jim Collins
+- [ ] Hooked: How to Build Habit-Forming Products by Nir Eyal and Ryan Hoover
+- [ ] The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg
+- [ ] Contagious: Why Things Catch On by Jonah Berger
+- [ ] How to Fly a Horse: The Secret History of Creation, Invention, and Discovery by Kevin Ashton
+- [ ] The Back of the Napkin (Expanded Edition): Solving Problems and Selling Ideas with Pictures by Dan Roam
+- [ ] The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries
+- [ ] Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel and Blake Masters
+
 # python
 
-- [ ] LPYHW `<Reading`
+- [x] LPYHW
 
 # Book Club
 
@@ -27,7 +146,6 @@
 - [x] "ШАБЛОНЫ ПРОЕКТИРОВАНИЯ" -GoF(http://www.sugardas.lt/~p2d/books/Priemioop.pdf)
 - [ ] "ПРОЕКТИРОВАНИЕ И ШАБЛОНЫ" - Скотт Майерс
 - [ ] "?" Александреец Андрей
-- [ ] ТАНЕНБАУМ
 - [ ] ЩЕРБАКОВ ДОМАШЕВ "прикладная криптография" (https://m.books.ru/books/prikladnaya-kriptografiya-81305/)
 - [ ] "написание драйверов систем безопасности" СОРОКИНА С И
 
