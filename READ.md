@@ -12,7 +12,7 @@
 
 #### Probability and Statistics
 
-- [ ] Introduction to Probability, Statistics, and Random Processes by Hossein Pishro-Nik [`full text book, no pdf`](https://www.probabilitycourse.com/)
+- [ ] Introduction to Probability, Statistics, and Random Processes by Hossein Pishro-Nik [`full text book, no pdf`](https://www.probabilitycourse.com/) `<reading 1.2.2`
 - [ ] Naked Statistics: Stripping the Dread from the Data by Charles Wheelan
 
 ### MO
@@ -112,7 +112,7 @@
 #### Book Club
 
 - [ ] Эндрю Таненбаум, Тодд Остин Архитектура компьютера
-- [ ] Эндрю Таненбаум Компьютерные сети `<Reading`
+- [ ] Эндрю Таненбаум Компьютерные сети `<Reading p101`
 - [ ] Марк Руссинович и др. Внутреннее устройство Windows
 
 
