@@ -12,7 +12,7 @@
 
 #### Probability and Statistics
 
-- [ ] Introduction to Probability, Statistics, and Random Processes by Hossein Pishro-Nik [`full text book, no pdf`](https://www.probabilitycourse.com/) `<reading 1.2.2`
+- [ ] Introduction to Probability, Statistics, and Random Processes by Hossein Pishro-Nik [`full text book, no pdf`](https://www.probabilitycourse.com/) `<reading 1.2.4`
 - [ ] Naked Statistics: Stripping the Dread from the Data by Charles Wheelan
 
 ### MO
