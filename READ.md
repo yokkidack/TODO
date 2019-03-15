@@ -76,6 +76,11 @@
 - [ ] [qt quick](http://doc.qt.io/qt-5/qtquick-index.html)
 
 ## Computer Science
+
+- [ ] layered software architecture
+- [ ] Multitier architecture
+- [ ] Dependency inversion principle
+
 ### Big List Recommendations:
 #### Machine Learning
 
