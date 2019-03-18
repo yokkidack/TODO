@@ -77,9 +77,10 @@
 
 ## Computer Science
 
-- [ ] layered software architecture
-- [ ] Multitier architecture
-- [ ] Dependency inversion principle
+- [x] (layered software architecture)[https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html]
+- [x] Multitier architecture
+- [x] (Dependency inversion principle)[https://habr.com/ru/post/313796/]
+- [x] Layers of isolation
 
 ### Big List Recommendations:
 #### Machine Learning
