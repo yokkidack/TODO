@@ -212,8 +212,8 @@
 [comment]: # (how to out of source build in cmake https://cgold.readthedocs.io/en/latest/tutorials/out-of-source.html)
 
 - [x] RTTI information
-- [ ] Elastic IP address
-- [ ] ленивое выполнение 
+- [x] Elastic IP address
+- [x] ленивое выполнение 
 - [ ] github webhooks
 
 ## No Tech
