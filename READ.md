@@ -82,6 +82,8 @@
 - [x] [Dependency inversion principle](https://habr.com/ru/post/313796/)
 - [x] Layers of isolation
 - [ ] [Object Models](https://en.wikipedia.org/wiki/Object_model)
+- [ ] [Elam drivers](https://blogs.technet.microsoft.com/dubaisec/2016/05/09/elam-driver/)
+- [ ] [Early Launch AntiMalware](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/early-launch-antimalware)
 
 ### Big List Recommendations:
 #### Machine Learning
@@ -207,7 +209,7 @@
 - [ ] The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries
 - [ ] Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel and Blake Masters
 
-#### List of uncirtancies 
+#### List of uncertainties 
 
 - [x] out-of-source build
 
