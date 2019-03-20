@@ -81,6 +81,7 @@
 - [x] Multitier architecture
 - [x] [Dependency inversion principle](https://habr.com/ru/post/313796/)
 - [x] Layers of isolation
+- [ ] [Object Models](https://en.wikipedia.org/wiki/Object_model)
 
 ### Big List Recommendations:
 #### Machine Learning
