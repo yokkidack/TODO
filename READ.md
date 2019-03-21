@@ -57,6 +57,7 @@
 #### python
 
 - [x] LPYHW
+- [ ] [ Kaggle + python ](https://www.kaggle.com/learn/python)
 
 #### JS
 
@@ -97,7 +98,7 @@
 - [ ] Electronics Fundamentals: Circuits, Devices & Applications by Thomas L. Floyd and David M. Buchla
 
 #### Data Science
-
+- [ ] [Kaggle courses](https://www.kaggle.com/learn/overview)
 - [ ] Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking by Foster Provost and Tom Fawcett
 - [ ] Python Data Science Handbook: Essential Tools for Working with Data by Jake VanderPlas
 - [ ] R for Data Science: Import, Tidy, Transform, Visualize, and Model Data by Hadley Wickham and Garrett Grolemund
