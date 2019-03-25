@@ -82,9 +82,12 @@
 - [x] Multitier architecture
 - [x] [Dependency inversion principle](https://habr.com/ru/post/313796/)
 - [x] Layers of isolation
-- [ ] [Object Models](https://en.wikipedia.org/wiki/Object_model)
+- [x] [Object Models](https://en.wikipedia.org/wiki/Object_model)
 - [ ] [Elam drivers](https://blogs.technet.microsoft.com/dubaisec/2016/05/09/elam-driver/)
 - [ ] [Early Launch AntiMalware](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/early-launch-antimalware)
+- [ ] [UML class diagram](https://en.wikipedia.org/wiki/Class_diagram)
+- [ ] [UML class diagram tutorial](https://www.lucidchart.com/pages/uml-class-diagram)
+- [ ] [UML class diagram by IBM](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/index.html)
 
 ### Big List Recommendations:
 #### Machine Learning
