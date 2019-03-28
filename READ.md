@@ -69,6 +69,7 @@
 - [x] https://habr.com/company/ruvds/blog/430382/
 - [ ] https://habr.com/company/ruvds/blog/430380/
 - [ ] https://habr.com/company/ruvds/blog/430376/
+- [ ] [electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658)
 
 
 #### QT
