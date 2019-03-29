@@ -91,6 +91,7 @@
 - [x] [UML class diagram by IBM](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/index.html)
 - [ ] [facade](https://refactoring.guru/ru/design-patterns/facade)
 - [ ] [facade habr](https://habr.com/ru/post/87110/)
+- [ ] [ writing effective use cases ](https://www.infor.uva.es/~mlaguna/is1/materiales/BookDraft1.pdf)
 
 ### Big List Recommendations:
 #### Machine Learning
