@@ -93,6 +93,7 @@
 - [ ] [facade habr](https://habr.com/ru/post/87110/)
 - [ ] [ writing effective use cases ](https://www.infor.uva.es/~mlaguna/is1/materiales/BookDraft1.pdf)
 - [ ] [callbacks](https://habr.com/ru/post/159003/)
+- [ ] [interfaces in c++](https://www.tutorialspoint.com/cplusplus/cpp_interfaces.htm)
 
 ### Big List Recommendations:
 #### Machine Learning
