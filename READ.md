@@ -92,6 +92,7 @@
 - [ ] [facade](https://refactoring.guru/ru/design-patterns/facade)
 - [ ] [facade habr](https://habr.com/ru/post/87110/)
 - [ ] [ writing effective use cases ](https://www.infor.uva.es/~mlaguna/is1/materiales/BookDraft1.pdf)
+- [ ] [callbacks](https://habr.com/ru/post/159003/)
 
 ### Big List Recommendations:
 #### Machine Learning
