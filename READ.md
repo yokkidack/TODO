@@ -69,7 +69,12 @@
 - [x] https://habr.com/company/ruvds/blog/430382/
 - [ ] https://habr.com/company/ruvds/blog/430380/
 - [ ] https://habr.com/company/ruvds/blog/430376/
-- [ ] [electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658)
+- [x] [electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658)
+
+#### Ruby
+
+- [x] https://www.ruby-lang.org/ru/documentation/quickstart/
+- [ ] http://books.ruby-doc.com/bookstore/
 
 
 #### QT
