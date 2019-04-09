@@ -89,8 +89,8 @@
 - [x] [Dependency inversion principle](https://habr.com/ru/post/313796/)
 - [x] Layers of isolation
 - [x] [Object Models](https://en.wikipedia.org/wiki/Object_model)
-- [ ] [Elam drivers](https://blogs.technet.microsoft.com/dubaisec/2016/05/09/elam-driver/)
-- [ ] [Early Launch AntiMalware](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/early-launch-antimalware)
+- [x] [Elam drivers](https://blogs.technet.microsoft.com/dubaisec/2016/05/09/elam-driver/)
+- [x] [Early Launch AntiMalware](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/early-launch-antimalware)
 - [x] [UML class diagram](https://en.wikipedia.org/wiki/Class_diagram)
 - [x] [UML class diagram tutorial](https://www.lucidchart.com/pages/uml-class-diagram)
 - [x] [UML class diagram by IBM](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/index.html)
@@ -100,7 +100,7 @@
 - [ ] [ writing effective use cases ](https://www.infor.uva.es/~mlaguna/is1/materiales/BookDraft1.pdf)
 - [ ] [callbacks](https://habr.com/ru/post/159003/)
 - [x] [interfaces in c++](https://www.tutorialspoint.com/cplusplus/cpp_interfaces.htm)
-- [ ] [flatbuffers](https://google.github.io/flatbuffers/)
+- [x] [flatbuffers](https://google.github.io/flatbuffers/)
 
 ### Big List Recommendations:
 #### Machine Learning
@@ -124,7 +124,6 @@
 #### Computer Science
 
 - [ ] Invitation to Computer Science (Introduction to CS) by G. Michael Schneider and Judith Gersting
-- [ ] Disclaimer: This was a textbook I used for class at Columbia. There may be other ones but I thought this provided a good foundation.
 
 #### Algorithms and Data Structures
 
@@ -192,7 +191,7 @@
 
 ### Career / Professional Development
 
-- [ ] Soft Skills: The software developer’s life manual by John Sonmez
+- [ ] Soft Skills: The software developer’s life manual by John Sonmez <`reading`
 - [ ] Grit: The Power of Passion and Perseverance by Angela Duckworth
 - [ ] Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi
 - [ ] Thinking, Fast and Slow by Daniel Kahneman
