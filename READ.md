@@ -75,6 +75,7 @@
 
 - [x] https://www.ruby-lang.org/ru/documentation/quickstart/
 - [ ] http://books.ruby-doc.com/bookstore/
+- [ ] [ruby app to gem](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-ruby-applications-as-a-gem-using-rubygems)
 
 
 #### QT
