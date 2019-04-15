@@ -102,6 +102,7 @@
 - [ ] [callbacks](https://habr.com/ru/post/159003/)
 - [x] [interfaces in c++](https://www.tutorialspoint.com/cplusplus/cpp_interfaces.htm)
 - [x] [flatbuffers](https://google.github.io/flatbuffers/)
+- [ ] [zeromq](https://habr.com/ru/post/242359/) 
 
 ### Big List Recommendations:
 #### Machine Learning
