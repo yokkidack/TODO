@@ -1,3 +1,9 @@
+## CCF
+
+- [ ] [сто бр 1.3](https://www.cbr.ru/Content/Document/File/46920/st-13-16.pdf)
+- volatility
+- autopsy
+
 ## Mathematics
 ### Big List Recommendations:
 #### Linear Algebra
@@ -279,4 +285,3 @@
 
 ### wtf
 - [x] В помощь пионервожатому. 1943 г.(https://unixone.ru/?p=1498#more-1498)
-
