@@ -109,6 +109,9 @@
 - [x] [interfaces in c++](https://www.tutorialspoint.com/cplusplus/cpp_interfaces.htm)
 - [x] [flatbuffers](https://google.github.io/flatbuffers/)
 - [ ] [zeromq](https://habr.com/ru/post/242359/) 
+- [x] [dev en 1](https://stackoverflow.com/questions/3438366/setupdigetdeviceproperty-usage-example) 
+- [x] [dev en 2](https://stackoverflow.com/questions/3098696/get-information-about-disk-drives-result-on-windows7-32-bit-system/3100268#3100268)
+- [x] [dev en 3](https://stackoverflow.com/questions/3012828/using-ioctl-mountmgr-query-points/3018530#3018530)
 
 ### Big List Recommendations:
 #### Machine Learning
