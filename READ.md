@@ -115,6 +115,9 @@
 - [ ] [kys todo list](https://github.com/vurdalakov/usbdevices/blob/master/src/UsbDevicesDotNet/UsbDeviceWinApi.DevicePropertyKeys.cs)
 - [ ] [DEFINE_DEVPROPKEY](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/define-devpropkey)
 - [x] [device-information-sets](https://docs.microsoft.com/ru-ru/windows-hardware/drivers/install/device-information-sets)
+- [x] [SetupDiGetClassDevs](https://docs.microsoft.com/en-us/windows/desktop/api/setupapi/nf-setupapi-setupdigetclassdevsexa)
+- [x] [DIGCF_ALLCLASSES](https://docs.microsoft.com/en-us/windows/desktop/api/setupapi/nf-setupapi-setupdigetclassdevsw#digcf_allclasses)
+- [x] [DIGCF_PRESENT](https://docs.microsoft.com/en-us/windows/desktop/api/setupapi/nf-setupapi-setupdigetclassdevsw#digcf_present)
 
 ### Big List Recommendations:
 #### Machine Learning
