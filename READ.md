@@ -113,6 +113,8 @@
 - [x] [dev en 2](https://stackoverflow.com/questions/3098696/get-information-about-disk-drives-result-on-windows7-32-bit-system/3100268#3100268)
 - [x] [dev en 3](https://stackoverflow.com/questions/3012828/using-ioctl-mountmgr-query-points/3018530#3018530)
 - [ ] [kys todo list](https://github.com/vurdalakov/usbdevices/blob/master/src/UsbDevicesDotNet/UsbDeviceWinApi.DevicePropertyKeys.cs)
+- [ ] [DEFINE_DEVPROPKEY](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/define-devpropkey)
+- [x] [device-information-sets](https://docs.microsoft.com/ru-ru/windows-hardware/drivers/install/device-information-sets)
 
 ### Big List Recommendations:
 #### Machine Learning
