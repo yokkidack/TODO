@@ -1,3 +1,4 @@
+- [ ] [vm box usb](https://www.techrepublic.com/article/how-to-enable-usb-in-virtualbox/)
 ## CCF
 
 - [ ] [сто бр 1.3](https://www.cbr.ru/Content/Document/File/46920/st-13-16.pdf)
