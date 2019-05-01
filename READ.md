@@ -1,4 +1,24 @@
 - [ ] [vm box usb](https://www.techrepublic.com/article/how-to-enable-usb-in-virtualbox/)
+- [x] [vs + gtests](https://docs.microsoft.com/ru-ru/visualstudio/test/how-to-use-google-test-for-cpp?view=vs-2019)
+- [x] [layered software architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html)
+- [x] Multitier architecture
+- [x] [Dependency inversion principle](https://habr.com/ru/post/313796/)
+- [x] Layers of isolation
+- [x] [Object Models](https://en.wikipedia.org/wiki/Object_model)
+- [x] [Elam drivers](https://blogs.technet.microsoft.com/dubaisec/2016/05/09/elam-driver/)
+- [x] [Early Launch AntiMalware](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/early-launch-antimalware)
+- [x] [UML class diagram](https://en.wikipedia.org/wiki/Class_diagram)
+- [x] [UML class diagram tutorial](https://www.lucidchart.com/pages/uml-class-diagram)
+- [x] [UML class diagram by IBM](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/index.html)
+- [x] [facade](https://refactoring.guru/ru/design-patterns/facade)
+- [x] [facade habr](https://habr.com/ru/post/87110/)
+- [x] [Божественный объект](https://ru.wikipedia.org/wiki/Божественный_объект) 
+- [ ] [ writing effective use cases ](https://www.infor.uva.es/~mlaguna/is1/materiales/BookDraft1.pdf)
+- [ ] [callbacks](https://habr.com/ru/post/159003/)
+- [x] [interfaces in c++](https://www.tutorialspoint.com/cplusplus/cpp_interfaces.htm)
+- [x] [flatbuffers](https://google.github.io/flatbuffers/)
+- [ ] [zeromq](https://habr.com/ru/post/242359/) 
+
 ## CCF
 
 - [ ] [сто бр 1.3](https://www.cbr.ru/Content/Document/File/46920/st-13-16.pdf)
@@ -91,26 +111,6 @@
 - [ ] [qt quick](http://doc.qt.io/qt-5/qtquick-index.html)
 
 ## Computer Science
-
-- [x] [layered software architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html)
-- [x] Multitier architecture
-- [x] [Dependency inversion principle](https://habr.com/ru/post/313796/)
-- [x] Layers of isolation
-- [x] [Object Models](https://en.wikipedia.org/wiki/Object_model)
-- [x] [Elam drivers](https://blogs.technet.microsoft.com/dubaisec/2016/05/09/elam-driver/)
-- [x] [Early Launch AntiMalware](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/early-launch-antimalware)
-- [x] [UML class diagram](https://en.wikipedia.org/wiki/Class_diagram)
-- [x] [UML class diagram tutorial](https://www.lucidchart.com/pages/uml-class-diagram)
-- [x] [UML class diagram by IBM](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/index.html)
-- [x] [facade](https://refactoring.guru/ru/design-patterns/facade)
-- [x] [facade habr](https://habr.com/ru/post/87110/)
-- [x] [Божественный объект](https://ru.wikipedia.org/wiki/Божественный_объект) 
-- [ ] [ writing effective use cases ](https://www.infor.uva.es/~mlaguna/is1/materiales/BookDraft1.pdf)
-- [ ] [callbacks](https://habr.com/ru/post/159003/)
-- [x] [interfaces in c++](https://www.tutorialspoint.com/cplusplus/cpp_interfaces.htm)
-- [x] [flatbuffers](https://google.github.io/flatbuffers/)
-- [ ] [zeromq](https://habr.com/ru/post/242359/) 
-
 ### Big List Recommendations:
 #### Machine Learning
 
