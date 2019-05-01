@@ -1,5 +1,3 @@
-- [ ] [vm box usb](https://www.techrepublic.com/article/how-to-enable-usb-in-virtualbox/)
-- [x] [vs + gtests](https://docs.microsoft.com/ru-ru/visualstudio/test/how-to-use-google-test-for-cpp?view=vs-2019)
 - [x] [layered software architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html)
 - [x] Multitier architecture
 - [x] [Dependency inversion principle](https://habr.com/ru/post/313796/)
@@ -14,10 +12,13 @@
 - [x] [facade habr](https://habr.com/ru/post/87110/)
 - [x] [Божественный объект](https://ru.wikipedia.org/wiki/Божественный_объект) 
 - [ ] [ writing effective use cases ](https://www.infor.uva.es/~mlaguna/is1/materiales/BookDraft1.pdf)
-- [ ] [callbacks](https://habr.com/ru/post/159003/)
+- [x] [callbacks](https://habr.com/ru/post/159003/)
 - [x] [interfaces in c++](https://www.tutorialspoint.com/cplusplus/cpp_interfaces.htm)
 - [x] [flatbuffers](https://google.github.io/flatbuffers/)
 - [ ] [zeromq](https://habr.com/ru/post/242359/) 
+- [ ] [vm box usb](https://www.techrepublic.com/article/how-to-enable-usb-in-virtualbox/)
+- [x] [vs + gtests](https://docs.microsoft.com/ru-ru/visualstudio/test/how-to-use-google-test-for-cpp?view=vs-2019)
+- [ ] [vs + gtests @ habr](https://habr.com/ru/company/infopulse/blog/164471/)
 
 ## CCF
 
