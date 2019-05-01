@@ -247,6 +247,8 @@
 - [ ] github webhooks
 
 ## No Tech
+### deutsch
+- [ ] [wortliste A1](https://www.goethe.de/pro/relaunch/prf/ru/A1_SD1_Wortliste_02.pdf)
 
 ### artsy 
 - [ ] «Изобретение повседневности» Мишель де Серто (есть  библиотеке Гаража(701.18 Дес))
