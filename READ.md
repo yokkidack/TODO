@@ -68,7 +68,7 @@
 - [ ] [Арбитраж задержек (latency arbitrage)]()
 - [ ] [Обнаружение ликвидности (liquidity detection)]()
 - [ ] 2010 Flash Crash
-
+- [ ] ["Findings Regarding the Market Events of May 6, 2010"]() 
 
 ## Programming
 ### Big List Recommendations:
