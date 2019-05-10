@@ -70,6 +70,10 @@
 - [ ] 2010 Flash Crash
 - [ ] ["Findings Regarding the Market Events of May 6, 2010"](https://www.sec.gov/news/studies/2010/marketevents-report.pdf) 
 
+### stocks
+
+- [ ] [random walk](http://site.iugaza.edu.ps/wdaya/files/2013/03/A-Random-Walk-Down-Wall-Street.pdf)
+
 ## Programming
 ### Big List Recommendations:
 #### Programming
