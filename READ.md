@@ -256,6 +256,10 @@
 - [ ] github webhooks
 
 ## No Tech
+
+### space
+- [x] [iss benefits for humanity](https://www.nasa.gov/sites/default/files/atoms/files/jsc_benefits_for_humanity_tagged_6-30-15.pdf)
+
 ### deutsch
 - [ ] [wortliste A1](https://www.goethe.de/pro/relaunch/prf/ru/A1_SD1_Wortliste_02.pdf)
 
