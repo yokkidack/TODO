@@ -257,6 +257,12 @@
 
 ## No Tech
 
+### К 27 числу:
+
+- общество риска Уильям Бекк
+- конструкция общества риска Гидденс 
+- Иванов Виртуальность общества
+
 ### space
 - [x] [iss benefits for humanity](https://www.nasa.gov/sites/default/files/atoms/files/jsc_benefits_for_humanity_tagged_6-30-15.pdf)
 - [orbitron](http://www.stoff.pl/)
