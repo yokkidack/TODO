@@ -1,23 +1,7 @@
-- [x] [layered software architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html)
-- [x] Multitier architecture
-- [x] [Dependency inversion principle](https://habr.com/ru/post/313796/)
-- [x] Layers of isolation
-- [x] [Object Models](https://en.wikipedia.org/wiki/Object_model)
-- [x] [Elam drivers](https://blogs.technet.microsoft.com/dubaisec/2016/05/09/elam-driver/)
-- [x] [Early Launch AntiMalware](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/early-launch-antimalware)
-- [x] [UML class diagram](https://en.wikipedia.org/wiki/Class_diagram)
-- [x] [UML class diagram tutorial](https://www.lucidchart.com/pages/uml-class-diagram)
-- [x] [UML class diagram by IBM](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/index.html)
-- [x] [facade](https://refactoring.guru/ru/design-patterns/facade)
-- [x] [facade habr](https://habr.com/ru/post/87110/)
-- [x] [Божественный объект](https://ru.wikipedia.org/wiki/Божественный_объект) 
+## urgent 
 - [ ] [ writing effective use cases ](https://www.infor.uva.es/~mlaguna/is1/materiales/BookDraft1.pdf)
-- [x] [callbacks](https://habr.com/ru/post/159003/)
-- [x] [interfaces in c++](https://www.tutorialspoint.com/cplusplus/cpp_interfaces.htm)
-- [x] [flatbuffers](https://google.github.io/flatbuffers/)
 - [ ] [zeromq](https://habr.com/ru/post/242359/) 
 - [ ] [vm box usb](https://www.techrepublic.com/article/how-to-enable-usb-in-virtualbox/)
-- [x] [vs + gtests](https://docs.microsoft.com/ru-ru/visualstudio/test/how-to-use-google-test-for-cpp?view=vs-2019)
 - [ ] [vs + gtests @ habr](https://habr.com/ru/company/infopulse/blog/164471/)
 
 ## CCF
@@ -145,7 +129,18 @@
 - [ ] Invitation to Computer Science (Introduction to CS) by G. Michael Schneider and Judith Gersting
 
 #### Algorithms and Data Structures
-
+- [ ] Сложность и модели вычислений. Анализ учетных стоимостей (начало)
+- [ ] Анализ учетных стоимостей (окончание)
+- [ ] Алгоритмы Merge-Sort и Quick-Sort
+- [ ] Порядковые статистики. Кучи (начало)
+- [ ] Кучи (окончание)
+- [ ] Хеширование
+- [ ] Деревья поиска (начало)
+- [ ] Деревья поиска (продолжение)
+- [ ] Деревья поиска (окончание). Система непересекающихся множеств
+- [ ] Задачи RMQ и LCA
+- [ ] Структуры данных для геометрического поиска
+- [ ] Задача о динамической связности в ненаправленном графе
 - [ ] Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles by Narasimha Karumanchi
 - [ ] Cracking the Coding Interview: 189 Programming Questions and Solutions by Gayle Laakmann McDowell
 - [ ] Disclaimer: I went to a presentation hosted by the author and enjoyed her presentation.
@@ -245,6 +240,23 @@
 - [ ] Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel and Blake Masters
 
 #### List of uncertainties 
+- [x] [layered software architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html)
+- [x] Multitier architecture
+- [x] [Dependency inversion principle](https://habr.com/ru/post/313796/)
+- [x] Layers of isolation
+- [x] [Object Models](https://en.wikipedia.org/wiki/Object_model)
+- [x] [Elam drivers](https://blogs.technet.microsoft.com/dubaisec/2016/05/09/elam-driver/)
+- [x] [Early Launch AntiMalware](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/early-launch-antimalware)
+- [x] [UML class diagram](https://en.wikipedia.org/wiki/Class_diagram)
+- [x] [UML class diagram tutorial](https://www.lucidchart.com/pages/uml-class-diagram)
+- [x] [UML class diagram by IBM](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/index.html)
+- [x] [facade](https://refactoring.guru/ru/design-patterns/facade)
+- [x] [facade habr](https://habr.com/ru/post/87110/)
+- [x] [Божественный объект](https://ru.wikipedia.org/wiki/Божественный_объект) 
+- [x] [callbacks](https://habr.com/ru/post/159003/)
+- [x] [interfaces in c++](https://www.tutorialspoint.com/cplusplus/cpp_interfaces.htm)
+- [x] [flatbuffers](https://google.github.io/flatbuffers/)
+- [x] [vs + gtests](https://docs.microsoft.com/ru-ru/visualstudio/test/how-to-use-google-test-for-cpp?view=vs-2019)
 
 - [x] out-of-source build
 
@@ -275,7 +287,7 @@
 - [ ] «Изобретение повседневности» Мишель де Серто (есть  библиотеке Гаража(701.18 Дес))
 - [x] Географический эксперимент Кулешова, эффект Кулешова «Искусство кино» Лев Кулешов (https://unixone.ru/?p=2031)
 - [x] «Теория Дрейва» Ги Дебор (https://ru.theanarchistlibrary.org/library/gi-debor-teoriya-drejfa)
-- [ ] «Берлинское детство на рубеже веков» Беньямин В (ISBN 978-5-91103-120-6 Ад Маргинем Пресс)
+- [x] «Берлинское детство на рубеже веков» Беньямин В (ISBN 978-5-91103-120-6 Ад Маргинем Пресс) <REading
 - [ ] „Grid Systems“ „Raster Systeme“ Йозеф Майер
 - [ ] Исихазм - Григорий палома
 
