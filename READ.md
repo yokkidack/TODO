@@ -129,7 +129,8 @@
 - [ ] Invitation to Computer Science (Introduction to CS) by G. Michael Schneider and Judith Gersting
 
 #### Algorithms and Data Structures
-- [ ] Сложность и модели вычислений. Анализ учетных стоимостей (начало)
+##### Nyandex Algorithms and Data Structures
+- [x] Сложность и модели вычислений. Анализ учетных стоимостей (начало)
 - [ ] Анализ учетных стоимостей (окончание)
 - [ ] Алгоритмы Merge-Sort и Quick-Sort
 - [ ] Порядковые статистики. Кучи (начало)
