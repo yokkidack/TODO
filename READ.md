@@ -1,6 +1,6 @@
 ## illustration 
 
-- [x] [recolor] https://helpx.adobe.com/ru/illustrator/how-to/recolor-artwork.html?playlist=/ru/ru/ccx/v1/collection/product/illustrator/topics/illustrator-projects/collection.ccx.js&ref=helpx.adobe.com
+- [x] [recolor](https://helpx.adobe.com/ru/illustrator/how-to/recolor-artwork.html?playlist=/ru/ru/ccx/v1/collection/product/illustrator/topics/illustrator-projects/collection.ccx.js&ref=helpx.adobe.com)
 
 ## urgent 
 - [ ] [ writing effective use cases ](https://www.infor.uva.es/~mlaguna/is1/materiales/BookDraft1.pdf)
