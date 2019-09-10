@@ -1,10 +1,14 @@
+## reverce 
+
+- [ ] Дизассемблирование в уме Касперски Крис `<reading`
+
 ## illustration 
 
 - [x] [recolor](https://helpx.adobe.com/ru/illustrator/how-to/recolor-artwork.html?playlist=/ru/ru/ccx/v1/collection/product/illustrator/topics/illustrator-projects/collection.ccx.js&ref=helpx.adobe.com)
 
 ## urgent 
-- [ ] [ writing effective use cases ](https://www.infor.uva.es/~mlaguna/is1/materiales/BookDraft1.pdf)
-- [ ] [zeromq](https://habr.com/ru/post/242359/) 
+- [x] [ writing effective use cases ](https://www.infor.uva.es/~mlaguna/is1/materiales/BookDraft1.pdf)
+- [x] [zeromq](https://habr.com/ru/post/242359/) 
 - [x] [vm box usb](https://www.techrepublic.com/article/how-to-enable-usb-in-virtualbox/)
 - [ ] [vs + gtests @ habr](https://habr.com/ru/company/infopulse/blog/164471/)
 
@@ -49,7 +53,7 @@
 - [ ] Лефевер В.А., Смолян Г.Л. Алгебра конфликта. - М.: КомКнига, 2007.
 - [ ] Лю Б. Теория и практика неопределенного программирования. - М.: БИНОМ, 2005.
 - [ ] Мак-Кинси Дж. Введение в теорию игр. -М.: Физматгиз, 1960.
-- [ ] **Оуэн Г. Теория игр. - М.: Мир, 1971.**
+- [x] **Оуэн Г. Теория игр. - М.: Мир, 1971.**
 
 ### HFT
 
@@ -101,7 +105,6 @@
 - [x] https://www.ruby-lang.org/ru/documentation/quickstart/
 - [ ] http://books.ruby-doc.com/bookstore/
 - [ ] [ruby app to gem](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-ruby-applications-as-a-gem-using-rubygems)
-
 
 #### QT
 
@@ -158,7 +161,6 @@
 - [ ] Эндрю Таненбаум, Тодд Остин Архитектура компьютера `<Reading p35`
 - [ ] Эндрю Таненбаум Компьютерные сети `<Reading p205`
 - [ ] Марк Руссинович и др. Внутреннее устройство Windows
-
 
 #### Industrial Development
 - [ ] [git pro](https://git-scm.com/book/ru/v2) `<reading on 6.4`
