@@ -273,6 +273,10 @@
 
 ## No Tech
 
+### why not
+
+- [ ] http://cc.naufor.ru/getfile.asp?id=6246
+
 ### illustration 
 
 - [x] [recolor](https://helpx.adobe.com/ru/illustrator/how-to/recolor-artwork.html?playlist=/ru/ru/ccx/v1/collection/product/illustrator/topics/illustrator-projects/collection.ccx.js&ref=helpx.adobe.com)
