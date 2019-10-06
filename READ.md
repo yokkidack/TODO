@@ -1,4 +1,24 @@
-## reverce 
+## Введение в современную архитектуру IA32
+
+- [ ] Зубков С.В. Ассемблер для DOS, Windows и UNIX. ДМК Пресс, 2000. (базовая книга) <`reading p 40`
+- [ ] Гук М. Процессоры Intel от 8086 до Pentium II (1998) (для тех, кто хочет посмотреть эволюцию процессоров Intel) 
+- [ ] Agner Fog. Software optimization resources (assembly/c++). (хорошее описание архитектуры, гооврят очень близко к правде)
+
+##### Официальная документация:
+
+- [ ] Intel R 64 and ia-32 architectures software developer’s manual volume 1: Basic architecture.
+- [ ] Intel R 64 and ia-32 architectures software developer’s manual combined volumes 2a, 2b, 2c, and 2d: Instruction set reference, a-z.
+- [ ] Intel R 64 and ia-32 architectures software developer’s manual combined volumes 3a, 3b, 3c, and 3d: System programming guide.
+- [ ] Intel R 64 and ia-32 architectures software developer’s manual volume 4: Model-specific registers.
+- [ ] Intel R 64 and ia-32 architectures optimization reference manual.
+
+##### Хорошие обзорные книги:
+
+- [ ] Tom Shanley. x86 Instruction Set Architecture. MindShare Press.
+- [ ] Tom Shanley. The Unabridged Pentium 4. MindShare Press.
+
+
+## Защита программ и данных 
 
 - [ ] Дизассемблирование в уме Касперски Крис `<reading` `<dripped`
 - [ ] The shellcoders handbook `<reading ch4`
