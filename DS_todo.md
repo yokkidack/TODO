@@ -10,7 +10,7 @@ Helpful for me and I hope will be helpful for you:
      and how to work with survey papers.
    - [x] [Neural Networks by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
      — watch 4 videos
-   - [ ] [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
+   - [x] [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
      — intro into neural networks
    - [ ] [Top 10 Deep Learning tools](https://medium.com/@chengweizhang2012/top-10-deep-learning-experiences-run-on-your-browser-458a64c9625f)
      for your inspiration. For more tools go to the section [additional useful tools](#tools)
