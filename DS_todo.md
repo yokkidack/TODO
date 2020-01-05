@@ -5,10 +5,10 @@ from https://github.com/foobar167/articles/blob/master/Ubuntu/13_Keras_and_Tenso
 Helpful for me and I hope will be helpful for you:
 
    - [x] How to write a scientific (survey) paper: [part1](https://youtu.be/FupqqW3hZWQ) 
-   - [ ] & [part2](https://youtu.be/aeea2Xw237U) —
+   - [x] & [part2](https://youtu.be/aeea2Xw237U) —
      Before learning Machine Learning, you must know how to write survey (scientific) paper
      and how to work with survey papers.
-   - [ ] [Neural Networks by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+   - [x] [Neural Networks by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
      — watch 4 videos
    - [ ] [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
      — intro into neural networks
