@@ -1,7 +1,4 @@
 ## ??
-
-- [x] неполный адрес (?)
-- [x] кэш линейка (?)
 - [x] [быстрое дпф за nlogn](https://e-maxx.ru/algo/fft_multiply)
 
 ## Введение в современную архитектуру IA32
@@ -26,7 +23,7 @@
 
 ## Защита программ и данных 
 
-- [ ] Дизассемблирование в уме Касперски Крис `<reading` `<dripped`
+- [ ] Дизассемблирование в уме Касперски Крис `<reading` `<dropped`
 - [ ] The shellcoders handbook `<reading ch4`
 
 ## urgent 
@@ -45,7 +42,7 @@
 ### Big List Recommendations:
 #### Linear Algebra
 
-- [ ] Introduction to Linear Algebra by Gilbert Strang
+- [ ] Introduction to Linear Algebra by Gilbert Strang <`reading`
 - [ ] Linear Algebra Done Right by Sheldon Axler
 
 #### Discrete Mathematics
