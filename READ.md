@@ -43,6 +43,7 @@
 #### Linear Algebra
 
 - [ ] Introduction to Linear Algebra by Gilbert Strang <`reading`
+- - [materials](https://math.mit.edu/~gs/linearalgebra/)
 - [ ] Linear Algebra Done Right by Sheldon Axler
 
 #### Discrete Mathematics
