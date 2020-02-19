@@ -1,1 +1,2 @@
 - [WFC on hex](boristhebrave.github.io/DeBroglie)
+- http://oskarstalberg.com/game/wave/wave.html
