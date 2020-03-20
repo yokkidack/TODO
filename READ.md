@@ -1,5 +1,8 @@
 ## ??
 - [x] [быстрое дпф за nlogn](https://e-maxx.ru/algo/fft_multiply)
+- [ ] [pagemap](https://www.kernel.org/doc/Documentation/vm/pagemap.txt)
+- [ ] [page map columbia](https://www.cs.columbia.edu/~vpk/research/ret2dir/)
+
 
 ## Введение в современную архитектуру IA32
 
